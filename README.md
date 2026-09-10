@@ -6,7 +6,7 @@ A modular, `no_std` Sega Master System emulator written from scratch in Rust, ta
 
 ## Philosophy & Architecture
 
-To achieve clean, professional, and portfolio-grade code quality, this project follows strict design principles:
+To achieve clean and professional code quality, this project follows strict design principles:
 
 * **Strictly Specification-Driven:** Developed from scratch relying **exclusively on official hardware documentation** and technical manuals located in the `docs/` folder. No third-party emulation code or libraries are used.
 * **Modular `no_std` Core:** Complete decoupling of the emulation engine from microcontroller hardware peripherals.
