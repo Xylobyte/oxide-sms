@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["crates/sms-core", "desktop-runner"]
+members = ["crates/sms-core", "desktop-runner", "firmware"]
 
 [profile.release]
 opt-level = 3

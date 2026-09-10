@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/crates/segseg/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/sms-core/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/desktop-runner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/firmware/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
